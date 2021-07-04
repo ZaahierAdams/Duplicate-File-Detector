@@ -4,9 +4,8 @@ import os
 import shutil
 import time
 
-direct = 'C:\\Users\\User\\Desktop\\New folder (6)\\tcc\\'
-#target = 'C:\\Users\\User\\Desktop\\test_site'
-ftype = '.jpg'
+direct = 'C:\\DIRECTORY_HERE'
+ftype = '.FILE_TPYPE'
 
 
 
