@@ -12,13 +12,13 @@ This is a python console application for detecting and deleteing duplicate files
 	- Size of files deleted in megabytes
 	- Time taken to complete scan  
 
-## How to use
+## Getting Started
 - Change the directory of interest in `Duplicate_det.py`
 ```
 direct = 'C:\\DIRECTORY_HERE'
 ```
 
-- Change the file type in `Duplicate_det.py`. This is the type of files you're interested in scanning. Accepts only one file type. For example `ftype=.jpg`. Ensure that the the file extension the preceded by a dot (.)
+- Change the file extension in `Duplicate_det.py`. This is the type of files you're interested in scanning. Accepts only one file type. For example `ftype=.jpg`. Ensure that the the file extension the preceded by a dot (.)
 ```
 ftype = '.FILE_TPYPE'
 ```
