@@ -1,4 +1,11 @@
-# Detects duplicate, specified, files on the basis of identical file size. and deletes (or) moves them to a specified directory
+'''
+Detects duplicate, specified, files on the basis of identical file size. and deletes (or) moves them to a specified directory
+
+Developed by: Zaahier Adams
+https://github.com/ZaahierAdams
+
+'''
+
 
 import os
 import shutil
